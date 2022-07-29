@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801963632843",
+    "project_id": "sixth-pride-320217",
+    "storage_bucket": "sixth-pride-320217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801963632843:android:5041bd27e95b8fba67534e",
+        "android_client_info": {
+          "package_name": "com.emergency_assistant.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801963632843-hqcd579da1o9a38l7sme3cg42vn5jl9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIM7sCRYXo2Qf2rw7uekiK4xox1tjEHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801963632843-hqcd579da1o9a38l7sme3cg42vn5jl9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
